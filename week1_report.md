@@ -12,7 +12,7 @@ Currently it is only at the setup state, but the topic is decided and I have a r
 of how the overall program should be, but it might be incorrect or unpractical. And i will
 see if there is any other better alternative.
 
-## What did you learn this week?
+## What did you learn this week?
 
 I reviewed some similar codes on the Internet i.e. frequency analysis of Ceaser encryption.
 
